@@ -12,6 +12,9 @@
   - Pipeline operator.
   - Header files.
   - Preprocessor for macros?
+  - Guards.
+  - Pattern matching.
+  - Functions, different arities. Matching.
 
 - Concurrency
   - Concurrency primitives.
@@ -24,6 +27,7 @@
   - Written in Rust.
   - The VM can be statically linked to run in a container.
   - Hot code reloads/upgrades.
+  - REPL.
   - Embed documentation in the REPL.
   - Lint checker.
   - AST easy to utilise.
@@ -37,7 +41,8 @@
     computing.
 
 - Language
-  - Language should have a fairly extensive standard library, to cover most
-    use-cases
-  - Do NOT encourage practices a la Node.JS + NPM (example: `is-odd`), etc.
+  - Language should have a fairly extensive standard library, to cover
+    most use-cases.
+  - Do NOT encourage practices a la Node.JS + NPM (example: `is-odd`),
+    etc.
   - Distributed with build tooling.
