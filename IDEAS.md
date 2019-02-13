@@ -29,6 +29,7 @@
   - Hot code reloads/upgrades.
   - REPL.
   - Embed documentation in the REPL.
+  - Full Unicode support (UTF-8).
   - Lint checker.
   - AST easy to utilise.
   - Language Server Protocol.
