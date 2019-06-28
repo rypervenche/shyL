@@ -22,8 +22,7 @@
   - Optional actor model.
 
 - VM
-  - Register-based (maybe stack-based, but I like the register-based
-      approach better) virtual machine.
+  - Register-based (maybe stack-based) virtual machine.
   - Written in Rust.
   - The VM can be statically linked to run in a container.
   - Hot code reloads/upgrades.
