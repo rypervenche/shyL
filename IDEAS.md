@@ -1,3 +1,5 @@
+# shyL
+
 - Paradigm
   - OOP?
   - Functional?
